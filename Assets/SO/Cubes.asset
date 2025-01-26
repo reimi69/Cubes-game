@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da37d45e6f6800a46b8fb724e9b95fd4, type: 3}
+  m_Name: Cubes
+  m_EditorClassIdentifier: 
+  CubeVariants:
+  - Identifier: White
+    Image: {fileID: -5212296236386218964, guid: 1bf8c2c813412654c8a43854235ab517, type: 3}
+  - Identifier: Blue
+    Image: {fileID: 2633221293296553779, guid: 1bf8c2c813412654c8a43854235ab517, type: 3}
+  - Identifier: Yellow
+    Image: {fileID: -1432517323402608352, guid: 1bf8c2c813412654c8a43854235ab517, type: 3}
+  - Identifier: Green
+    Image: {fileID: -7133714486296647706, guid: 1bf8c2c813412654c8a43854235ab517, type: 3}
+  - Identifier: Black
+    Image: {fileID: -4192116766372077834, guid: 1bf8c2c813412654c8a43854235ab517, type: 3}
+  - Identifier: Pink
+    Image: {fileID: 8310218341065167230, guid: 1bf8c2c813412654c8a43854235ab517, type: 3}
+  - Identifier: cyan
+    Image: {fileID: -6656392042811883131, guid: 1bf8c2c813412654c8a43854235ab517, type: 3}
+  - Identifier: Red
+    Image: {fileID: 5850178949390064250, guid: ba8f69c6618dbc840bb4d17a9c7bde0f, type: 3}
+  - Identifier: White&Yellow
+    Image: {fileID: 8533536473616970865, guid: 1bf8c2c813412654c8a43854235ab517, type: 3}
+  - Identifier: White&Black
+    Image: {fileID: 5366302395674747695, guid: 1bf8c2c813412654c8a43854235ab517, type: 3}
+  - Identifier: White&Green
+    Image: {fileID: -5855543119618519307, guid: 1bf8c2c813412654c8a43854235ab517, type: 3}
+  - Identifier: Yellow&Orange
+    Image: {fileID: 2907408495246086647, guid: 1bf8c2c813412654c8a43854235ab517, type: 3}
+  - Identifier: Pink&Grey
+    Image: {fileID: -709734931316942407, guid: 1bf8c2c813412654c8a43854235ab517, type: 3}
+  - Identifier: GirlWhite
+    Image: {fileID: -8495366368991471560, guid: 1bf8c2c813412654c8a43854235ab517, type: 3}
+  - Identifier: GirlYellow
+    Image: {fileID: 3008909056920919088, guid: 1bf8c2c813412654c8a43854235ab517, type: 3}
+  - Identifier: GirlPink
+    Image: {fileID: -8051972180054549587, guid: 1bf8c2c813412654c8a43854235ab517, type: 3}
+  - Identifier: SoldierYellow
+    Image: {fileID: 21300000, guid: f00cec71c01a5d946a99c095175f8b9b, type: 3}
+  - Identifier: SoldierBlue
+    Image: {fileID: -526064850279886523, guid: 1bf8c2c813412654c8a43854235ab517, type: 3}
+  - Identifier: SoldierWhite
+    Image: {fileID: -668500664856312875, guid: 1bf8c2c813412654c8a43854235ab517, type: 3}
+  - Identifier: SoldierBlack
+    Image: {fileID: 6366828020249126900, guid: 1bf8c2c813412654c8a43854235ab517, type: 3}
